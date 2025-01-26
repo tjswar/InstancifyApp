@@ -1,0 +1,11 @@
+{
+    "Version": "1.0",
+    "CredentialsProvider": {
+        "CognitoIdentity": {
+            "Default": {
+                "Region": "us-east-1"
+            }
+        }
+    },
+    "Region": "us-east-1"
+} 
